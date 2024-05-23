@@ -30,4 +30,4 @@ To improve the performance of BIRA, H/W overhead and RA (Redundancy Analysis) ti
 
 Figure. Given Spare Structure of Project
 
-So, the objective of this project is to design an effective BIRA with a 100% normalized repair rate in the memory with multiple banks. The repair rate is different when using various spare structures [1]. Therefore, proposed BIRA was designed to operate on these three spare structures (Fig.2) and checked how the repair rate and analysis time are changed with these structures.
+So, the objective of this project is to design an effective BIRA with a 100% normalized repair rate in the memory with multiple banks. The repair rate is different when using various spare structures [1]. Therefore, proposed BIRA was designed to operate on these three spare structures (Fig.) and checked how the repair rate and analysis time are changed with these structures.
