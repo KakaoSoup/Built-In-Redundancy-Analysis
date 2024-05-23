@@ -1,4 +1,5 @@
-[Introduction]\n
+[Introduction]
+
 As chip integration continues to increase, memory dice are being stacked like HBM to reduce size and increase memory capacity.
 In addition, as with automotive chips, stability issues are so important that the number of devices that require internal testing continues to increase.
 In this situation, BIRA (Built-In Redundancy Analysis) has gained greater importance.
