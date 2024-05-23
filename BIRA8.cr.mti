@@ -1,0 +1,85 @@
+C:/intelFPGA/17.0/BIRA_8/RAC.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/RAC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RAC
+
+Top level modules:
+	RAC
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/CAC.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/CAC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CAC
+
+Top level modules:
+	CAC
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/SingnalValidityChecker.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/SingnalValidityChecker.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module signal_validity_checker
+
+Top level modules:
+	signal_validity_checker
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/SpareAllocationAnalyzer.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/SpareAllocationAnalyzer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SpareAllocationAnalyzer
+
+Top level modules:
+	SpareAllocationAnalyzer
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/top_module.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/top_module.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module top_module
+
+Top level modules:
+	top_module
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/bira_top.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/bira_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bira_top
+
+Top level modules:
+	bira_top
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/Analyzer.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/Analyzer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Analyzer
+
+Top level modules:
+	Analyzer
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/CAM.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/CAM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cam
+
+Top level modules:
+	cam
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/mbist_top.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/mbist_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mbist_top
+
+Top level modules:
+	mbist_top
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/memory.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/RedundantAnalyzer.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/RedundantAnalyzer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RedundantAnalyzer
+
+Top level modules:
+	RedundantAnalyzer
+
+} {} {}} C:/intelFPGA/17.0/BIRA_8/SignalGenerator.v {1 {vlog -work work -stats=none C:/intelFPGA/17.0/BIRA_8/SignalGenerator.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module signal_generator
+
+Top level modules:
+	signal_generator
+
+} {} {}}
